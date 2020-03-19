@@ -21,7 +21,7 @@ namespace Task_2
         {
 
             int heroX = 3; 
-            int heroY = 2;
+            int heroY = 3;
 
             char[,] map =
             {

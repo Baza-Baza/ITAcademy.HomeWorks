@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Hm_05\\Hm_05.csproj": {}
+    "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Hm_05\\Hm_05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Hm_05\\Hm_05.csproj": {
+    "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Hm_05\\Hm_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Hm_05\\Hm_05.csproj",
+        "projectUniqueName": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Hm_05\\Hm_05.csproj",
         "projectName": "Hm_05",
-        "projectPath": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Hm_05\\Hm_05.csproj",
+        "projectPath": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Hm_05\\Hm_05.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Hm_05\\obj\\",
+        "outputPath": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Hm_05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
