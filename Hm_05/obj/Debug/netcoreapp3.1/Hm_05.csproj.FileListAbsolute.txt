@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.exe
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.deps.json
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.runtimeconfig.json
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.dll
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\bin\Debug\netcoreapp3.1\Hm_05.pdb
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\obj\Debug\netcoreapp3.1\Hm_05.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\obj\Debug\netcoreapp3.1\Hm_05.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\obj\Debug\netcoreapp3.1\Hm_05.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\obj\Debug\netcoreapp3.1\Hm_05.dll
+C:\Users\Nikita\source\repos\Hm_05\Hm_05\obj\Debug\netcoreapp3.1\Hm_05.pdb
