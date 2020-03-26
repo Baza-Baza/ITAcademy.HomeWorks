@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Task 2\\Task 2.csproj",
+      "projectPath": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikita\\source\\repos\\Hm_05\\Task 2\\obj\\",
+      "outputPath": "E:\\Учеба\\Academy\\Hw_05\\Hm_05\\ITAcademy.HomeWorks\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

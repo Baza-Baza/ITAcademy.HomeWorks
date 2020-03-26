@@ -1,0 +1,11 @@
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.exe
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.deps.json
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.runtimeconfig.json
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.runtimeconfig.dev.json
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.dll
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\bin\Debug\netcoreapp3.1\HW_06.pdb
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\obj\Debug\netcoreapp3.1\HW_06.csprojAssemblyReference.cache
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\obj\Debug\netcoreapp3.1\HW_06.AssemblyInfoInputs.cache
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\obj\Debug\netcoreapp3.1\HW_06.AssemblyInfo.cs
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\obj\Debug\netcoreapp3.1\HW_06.dll
+E:\Учеба\Academy\Hw_05\Hm_05\ITAcademy.HomeWorks\HW_06\obj\Debug\netcoreapp3.1\HW_06.pdb
